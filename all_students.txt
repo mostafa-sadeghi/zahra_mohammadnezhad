@@ -1,0 +1,21 @@
+[
+    {
+        'name': "sara",
+        'age': 37
+        'grade':'A'
+    },
+    {
+        'name': "ali",
+        'age': 37
+        'grade':'B'
+    }
+   
+
+]
+
+
+student =  {
+        'name': "sara",
+        'age': 37
+        'grade':'A'
+    }

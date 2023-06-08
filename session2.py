@@ -95,19 +95,19 @@ numbers = [1, 2, 3, 4, 5]
 # }
 # print(my_dict[(3,4)])
 
-person_1 = {
-    'id': 1,
-    'name': "sara",
-    'age': 30
-}
+# person_1 = {
+#     'id': 1,
+#     'name': "sara",
+#     'age': 30
+# }
 
-person_2 = {
-    'name': "sara",
-    'id': 1,
-    'age': 30
-}
+# person_2 = {
+#     'name': "sara",
+#     'id': 1,
+#     'age': 30
+# }
 
-print(person_1 == person_2)
+# print(person_1 == person_2)
 
 # numbers_1 = [1,2,3,4]
 # numbers_2 = [1,3,2,4]
